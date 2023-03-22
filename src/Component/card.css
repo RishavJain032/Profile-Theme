@@ -1,0 +1,21 @@
+.maincontainer {
+    display: flex;
+    box-shadow: 0 0 10px black;
+    width: 900px;
+    margin:70px auto 20px;
+    height : 400px
+}
+.column1 {
+    
+    width:40%
+}
+.column2 {
+    padding:50px;
+    width: 60%;
+}
+.butt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+}
